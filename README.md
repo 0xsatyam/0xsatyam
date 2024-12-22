@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c0/18/77/c0187789454030215c5ad36cb542a010.gif)]
+
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate fresher software engineer with a strong foundation in coding, eager to contribute to impactful and innovative projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"/>
